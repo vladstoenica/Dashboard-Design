@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="card_dark_green">#029368</color>
+    <color name="card_pastel_green">#add0c0</color>
+    <color name="card_dark_grey">#25211e</color>
+    <color name="card_beige1">#baad91</color>
+    <color name="card_beige2">#bebea5</color>
+    <color name="card_default">#FFFFFF</color>
+
+
+    <color name="primary_background">#F1F1F1</color>
+
+    <color name="red_miscellaneous">#8f3f3f</color>
+    <color name="green_miscellaneous">#add0c0</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="text_core">#FFFFFFFF</color>
+    <color name="text_card1">#FF000000</color>
+
+
+
+    <color name="text_secondary">#323232</color>
+    <color name="text_primary">#1C1C1C</color>
+
+
+    <color name="color_primary">#673AB7</color>
+    <color name= "background">#F7F7FA</color>
+    <color name= "card_background">#FFFFFF</color>
+    <color name="primary_text">#565B65</color>
+    <color name="secondary_text">#9B9A9D</color>
+    <color name= "dashboard_item_1">#2CC2EA</color>
+    <color name= "dashboard_item_2">#4DE9C9</color>
+    <color name= "dashboard_item_3">#72A4FF</color>
+
+
+
+</resources>
